@@ -10,6 +10,9 @@
     <Project Path="samples/Unicorn.Net.Samples.Shellcode/Unicorn.Net.Samples.Shellcode.csproj" />
     <Project Path="samples/Unicorn.Net.Samples.X86/Unicorn.Net.Samples.X86.csproj" />
   </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path=".github/workflows/dotnet.yml" />
+  </Folder>
   <Folder Name="/src/">
     <Project Path="src/Unicorn.Net.ConsoleTests/Unicorn.Net.ConsoleTests.csproj" />
     <Project Path="src/Unicorn.Net/Unicorn.Net.csproj" />
